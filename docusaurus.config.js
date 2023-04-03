@@ -43,14 +43,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ashishjg21/personal-wiki/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ashishjg21/personal-wiki/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -63,7 +63,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        respectPrefersColorScheme: true
+      },
       navbar: {
         title: 'My Second brain',
         logo: {
@@ -75,66 +77,40 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'My notes',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { 
+            to: '/blog',
+            label: 'Blog',
+            position: 'left'
+          },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://www.instagram.com/ashishjg/",
+            position: "right",
+            label: "📷",
+          },
+          {
+            href: "https://twitter.com/ashishjg_x",
+            position: "right",
+            label: "🐦",
+          },
+          {
+            href: "https://github.com/ashishjg21",
+            position: "right",
+            label: "🐙",
           },
         ],
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Find me here',
-            items: [
-              {
-                label: 'LinkedIn',
-                href: 'https://www.linkedin.com/in/ashish-galagali/',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/ashishjg_x',
-              },
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/users/12134679/ashish-galagali',
-              }
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/ashishjg21/personal-wiki',
-              }
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Ashish JG. Built with 💚 and Docusaurus.`,
-      },
+      },    
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
+
 };
 
 module.exports = config;
