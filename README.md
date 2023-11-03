@@ -1,4 +1,4 @@
-# Running the Development Server
+## Running the Development Server
 
 To preview your changes as you edit the files, you can run a local development server that will serve your website and reflect the latest changes.
 
