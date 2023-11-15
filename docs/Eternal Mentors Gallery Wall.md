@@ -1,4 +1,4 @@
-### People who have influenced and motivated me, owe them many pizzas!
+#### People who have influenced and motivated me, owe them many pizzas!
 #### So here is the Eternal Mentors Gallery Wall 
 
 - Shreelekha Attel (Architect)
@@ -10,5 +10,5 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDA5MTM0MV19
+eyJoaXN0b3J5IjpbMTQxMTMwMTE4LDIwODQwOTEzNDFdfQ==
 -->
