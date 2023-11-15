@@ -3,12 +3,12 @@
 
 - Shreelekha Attel (Architect)
 	- LinkedIn, Instagram 
-	- she is my girlfriend so obvisously she 
+	- she is my girlfriend so obviously she has to be in the list 
 - Casey Neistat
 	- Wikipedia
 	- Instagram, Youtube
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ3MTM4NDZdfQ==
+eyJoaXN0b3J5IjpbMjA4NDA5MTM0MV19
 -->
