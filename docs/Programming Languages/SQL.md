@@ -1,11 +1,8 @@
 
-| Operator | Condition | SQL Example |
-| =, !=, < <=, >, >= |  |
-|  |  |
 
 
 
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTg2NDg1NF19
+eyJoaXN0b3J5IjpbMTYyNzI3OTU0XX0=
 -->
