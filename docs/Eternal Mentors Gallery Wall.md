@@ -3,12 +3,17 @@
 
 - Shreelekha Attel (Architect)
 	- LinkedIn, Instagram 
-	- she is my girlfriend so obviously she has to be in the list 
+	-  
 - Casey Neistat
 	- Wikipedia
 	- Instagram, Youtube
+	- 
+ - Sharan Y R 
+	 - Julia computing
  - 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTMwMTE4LDIwODQwOTEzNDFdfQ==
+eyJoaXN0b3J5IjpbLTEyNDA1NDEwMiwxNDExMzAxMTgsMjA4ND
+A5MTM0MV19
 -->
